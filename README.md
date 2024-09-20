@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0075-sort-colors) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0268-missing-number) |
 ## Hash Table
@@ -84,5 +86,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
