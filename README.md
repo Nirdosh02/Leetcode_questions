@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 ## Simulation
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 ## String Matching
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 ## Trie
 |  |
 | ------- |
@@ -119,4 +122,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
