@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0021-merge-two-sorted-lists) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
