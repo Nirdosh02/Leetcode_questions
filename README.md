@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0367-valid-perfect-square) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0278-first-bad-version) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
