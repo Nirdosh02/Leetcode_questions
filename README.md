@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0455-assign-cookies) |
+| [0463-island-perimeter](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0073-set-matrix-zeroes) |
+| [0463-island-perimeter](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0463-island-perimeter) |
 ## String
 |  |
 | ------- |
@@ -164,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0070-climbing-stairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
