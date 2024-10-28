@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0907-koko-eating-bananas) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 ## Trie
 |  |
