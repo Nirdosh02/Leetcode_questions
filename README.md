@@ -187,4 +187,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0463-island-perimeter) |
+## Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
