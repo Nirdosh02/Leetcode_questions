@@ -12,9 +12,9 @@ public:
         long long totalh = 0;
         int n = a.size();
         for (int i = 0; i < n; i++) {
-            // Use integer division to calculate ceiling
+           
             totalh += (a[i] + hr - 1) / hr;
-            // Early exit if total hours exceed limit
+           
             if (totalh > INT_MAX) {
                 return totalh;
             }
@@ -23,7 +23,7 @@ public:
     }
 
     int minEatingSpeed(vector<int>& piles, int h) {
-        int low = 1; // Start from 1 to avoid division by zero
+        int low = 1; 
         int high = findmax(piles);
         while (low <= high) {
             int mid = (low + high) / 2;
@@ -34,6 +34,6 @@ public:
                 low = mid + 1;
             }
         }
-        return low; // This will be the minimum speed needed
+        return low; 
     }
 };
