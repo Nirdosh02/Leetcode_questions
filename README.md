@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0075-sort-colors) |
@@ -127,12 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0067-add-binary) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0463-island-perimeter) |
 ## String
