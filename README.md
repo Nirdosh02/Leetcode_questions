@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0367-valid-perfect-square) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
