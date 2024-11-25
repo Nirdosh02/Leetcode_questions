@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0075-sort-colors) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0217-contains-duplicate) |
