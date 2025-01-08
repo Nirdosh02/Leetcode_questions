@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0367-valid-perfect-square) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0326-power-of-three) |
 ## Interactive
 |  |
 | ------- |
