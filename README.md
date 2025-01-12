@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0485-max-consecutive-ones) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0792-binary-search) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0908-middle-of-the-linked-list) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0817-design-hashmap](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0817-design-hashmap) |
 | [0952-word-subsets](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0952-word-subsets) |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
