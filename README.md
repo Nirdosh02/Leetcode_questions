@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0817-design-hashmap) |
 | [0907-koko-eating-bananas](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0952-word-subsets) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1524-string-matching-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
