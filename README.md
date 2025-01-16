@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0229-majority-element-ii) |
+| [0260-single-number-iii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0275-h-index-ii) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0342-power-of-four) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
