@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1524-string-matching-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nirdosh02/Leetcode_questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
