@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0817-design-hashmap](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0817-design-hashmap) |
 | [0952-word-subsets](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0952-word-subsets) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0383-ransom-note) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Nirdosh02/Leetcode_questions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Dynamic Programming
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0952-word-subsets](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0952-word-subsets) |
