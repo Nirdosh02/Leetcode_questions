@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0204-count-primes) |
+| [0216-combination-sum-iii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0229-majority-element-ii) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0216-combination-sum-iii) |
 ## Enumeration
 |  |
 | ------- |
