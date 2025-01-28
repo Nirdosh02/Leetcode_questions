@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1610-xor-operation-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2050-count-good-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0342-power-of-four) |
+| [2050-count-good-numbers](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2050-count-good-numbers) |
 ## Interactive
 |  |
 | ------- |
