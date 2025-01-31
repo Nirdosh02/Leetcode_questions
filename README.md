@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 ## Simulation
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0067-add-binary) |
+| [0131-palindrome-partitioning](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0171-excel-sheet-column-number) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0216-combination-sum-iii) |
 ## Enumeration
 |  |
