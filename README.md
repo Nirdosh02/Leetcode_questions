@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Matrix
 |  |
 | ------- |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2032-largest-odd-number-in-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nirdosh02/Leetcode_questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Nirdosh02/Leetcode_questions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String Matching
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Linked List
 |  |
 | ------- |
