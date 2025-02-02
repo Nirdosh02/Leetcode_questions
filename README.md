@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0260-single-number-iii) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
