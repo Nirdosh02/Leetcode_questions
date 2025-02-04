@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0090-subsets-ii) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0463-island-perimeter) |
 ## String
 |  |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0168-excel-sheet-column-title) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -471,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0216-combination-sum-iii) |
