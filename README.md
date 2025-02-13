@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0152-maximum-product-subarray) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0142-linked-list-cycle-ii) |
@@ -524,4 +526,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
