@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0274-h-index) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1537-maximum-score-after-splitting-a-string) |
