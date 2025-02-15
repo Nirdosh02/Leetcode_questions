@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0162-find-peak-element) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0171-excel-sheet-column-number) |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0139-word-break) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nirdosh02/Leetcode_questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Stack
 |  |
@@ -412,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0139-word-break) |
 ## Depth-First Search
 |  |
 | ------- |
