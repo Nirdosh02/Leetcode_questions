@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0342-power-of-four) |
 | [1610-xor-operation-in-an-array](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1610-xor-operation-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 ## Simulation
