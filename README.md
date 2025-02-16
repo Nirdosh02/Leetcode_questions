@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1524-string-matching-in-an-array) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0216-combination-sum-iii) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Enumeration
 |  |
