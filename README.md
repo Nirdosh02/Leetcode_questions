@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0371-sum-of-two-integers) |
+| [0492-construct-the-rectangle](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0492-construct-the-rectangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1477-product-of-the-last-k-numbers) |
