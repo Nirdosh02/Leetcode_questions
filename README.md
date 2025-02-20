@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0907-koko-eating-bananas) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0371-sum-of-two-integers) |
+| [0441-arranging-coins](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0507-perfect-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1146-greatest-common-divisor-of-strings) |
