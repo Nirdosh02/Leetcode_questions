@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
+| [2107-find-unique-binary-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2107-find-unique-binary-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1502-construct-k-palindrome-strings) |
+| [2107-find-unique-binary-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Nirdosh02/Leetcode_questions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2032-largest-odd-number-in-string) |
+| [2107-find-unique-binary-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2107-find-unique-binary-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nirdosh02/Leetcode_questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0216-combination-sum-iii) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Enumeration
 |  |
