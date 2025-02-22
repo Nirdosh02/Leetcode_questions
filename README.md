@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2107-find-unique-binary-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2107-find-unique-binary-string) |
+| [2227-sum-of-subarray-ranges](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2227-sum-of-subarray-ranges](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2227-sum-of-subarray-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/Nirdosh02/Leetcode_questions/tree/master/3447-clear-digits) |
 ## Linked List
@@ -589,4 +591,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
