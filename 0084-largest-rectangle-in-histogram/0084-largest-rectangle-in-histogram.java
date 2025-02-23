@@ -1,12 +1,30 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
-        int[] nse = nse(heights);
-        int[] pse = pse(heights);
-        int maxi = 0;
-        for(int i=0; i<heights.length; i++){
-            maxi = Math.max(maxi, heights[i]*(nse[i]-pse[i]-1));
+        // int[] nse = nse(heights);
+        // int[] pse = pse(heights);
+        // int maxi = 0;
+        // for(int i=0; i<heights.length; i++){
+        //     maxi = Math.max(maxi, heights[i]*(nse[i]-pse[i]-1));
+        // }
+        // return maxi;
+
+        Stack < Integer > st = new Stack < > ();
+        int maxA = 0;
+        int n = heights.length;
+        for (int i = 0; i <= n; i++) {
+            while (!st.empty() && (i == n || heights[st.peek()] >= heights[i])) {
+                int height = heights[st.peek()];
+                st.pop();
+                int width;
+                if (st.empty())
+                    width = i;
+                else
+                    width = i - st.peek() - 1;
+                maxA = Math.max(maxA, width * height);
+            }
+            st.push(i);
         }
-        return maxi;
+        return maxA;
     }
 
     private int[] nse(int[] arr){
