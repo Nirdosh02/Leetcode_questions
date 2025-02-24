@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0817-design-hashmap) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0724-find-pivot-index) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1833-find-the-highest-altitude) |
