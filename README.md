@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1524-string-matching-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1833-find-the-highest-altitude](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2107-find-unique-binary-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2107-find-unique-binary-string) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1833-find-the-highest-altitude](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1833-find-the-highest-altitude) |
 ## Number Theory
 |  |
 | ------- |
