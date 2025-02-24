@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1524-string-matching-in-an-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1502-construct-k-palindrome-strings) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2107-find-unique-binary-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Nirdosh02/Leetcode_questions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Divide and Conquer
 |  |
