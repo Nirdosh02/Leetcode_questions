@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0605-can-place-flowers) |
