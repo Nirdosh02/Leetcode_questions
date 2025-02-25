@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1078-remove-outermost-parentheses) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0225-implement-stack-using-queues) |
 | [0817-design-hashmap](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0817-design-hashmap) |
+| [0937-online-stock-span](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Hash Function
 |  |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Queue
 |  |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
