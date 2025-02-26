@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0274-h-index) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0239-sliding-window-maximum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Union Find
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -625,4 +629,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2227-sum-of-subarray-ranges) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
