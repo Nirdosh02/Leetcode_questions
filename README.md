@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1502-construct-k-palindrome-strings) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2107-find-unique-binary-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Nirdosh02/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Divide and Conquer
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1364-tuple-with-same-product) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1502-construct-k-palindrome-strings) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Nirdosh02/Leetcode_questions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Dynamic Programming
 |  |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2032-largest-odd-number-in-string) |
