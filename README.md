@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-sum-of-subarray-ranges](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nirdosh02/Leetcode_questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Math
 |  |
 | ------- |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nirdosh02/Leetcode_questions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nirdosh02/Leetcode_questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Divide and Conquer
 |  |
